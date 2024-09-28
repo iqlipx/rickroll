@@ -8,4 +8,6 @@ I created this just for kicks! 😄
 
 To enjoy some classic rickrolling, you can play the video below:
 
+![Rickroll GIF](rickroll.gif)
+
 [![Play rickroll.mp4](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](rickroll.mp4)
